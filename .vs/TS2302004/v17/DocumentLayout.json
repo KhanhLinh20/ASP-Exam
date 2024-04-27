@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Download D\\Exercise\\Asp\\TS2302004\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56710E8C-5193-4440-BC89-382A83049289}|TS2302004\\TS2302004.csproj|d:\\download d\\exercise\\asp\\ts2302004\\ts2302004\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56710E8C-5193-4440-BC89-382A83049289}|TS2302004\\TS2302004.csproj|solutionrelative:ts2302004\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56710E8C-5193-4440-BC89-382A83049289}|TS2302004\\TS2302004.csproj|d:\\download d\\exercise\\asp\\ts2302004\\ts2302004\\views\\company\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56710E8C-5193-4440-BC89-382A83049289}|TS2302004\\TS2302004.csproj|solutionrelative:ts2302004\\views\\company\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56710E8C-5193-4440-BC89-382A83049289}|TS2302004\\TS2302004.csproj|d:\\download d\\exercise\\asp\\ts2302004\\ts2302004\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56710E8C-5193-4440-BC89-382A83049289}|TS2302004\\TS2302004.csproj|solutionrelative:ts2302004\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56710E8C-5193-4440-BC89-382A83049289}|TS2302004\\TS2302004.csproj|d:\\download d\\exercise\\asp\\ts2302004\\ts2302004\\views\\company\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56710E8C-5193-4440-BC89-382A83049289}|TS2302004\\TS2302004.csproj|solutionrelative:ts2302004\\views\\company\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56710E8C-5193-4440-BC89-382A83049289}|TS2302004\\TS2302004.csproj|d:\\download d\\exercise\\asp\\ts2302004\\ts2302004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56710E8C-5193-4440-BC89-382A83049289}|TS2302004\\TS2302004.csproj|solutionrelative:ts2302004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56710E8C-5193-4440-BC89-382A83049289}|TS2302004\\TS2302004.csproj|d:\\download d\\exercise\\asp\\ts2302004\\ts2302004\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56710E8C-5193-4440-BC89-382A83049289}|TS2302004\\TS2302004.csproj|solutionrelative:ts2302004\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 255,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Download D\\Exercise\\Asp\\TS2302004\\TS2302004\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "TS2302004\\Models\\Employee.cs",
+              "ToolTip": "D:\\Download D\\Exercise\\Asp\\TS2302004\\TS2302004\\Models\\Employee.cs",
+              "RelativeToolTip": "TS2302004\\Models\\Employee.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwBUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:57:29.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Download D\\Exercise\\Asp\\TS2302004\\TS2302004\\Views\\Company\\Create.cshtml",
+              "RelativeDocumentMoniker": "TS2302004\\Views\\Company\\Create.cshtml",
+              "ToolTip": "D:\\Download D\\Exercise\\Asp\\TS2302004\\TS2302004\\Views\\Company\\Create.cshtml",
+              "RelativeToolTip": "TS2302004\\Views\\Company\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T10:51:31.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Download D\\Exercise\\Asp\\TS2302004\\TS2302004\\Views\\Company\\Index.cshtml",
+              "RelativeDocumentMoniker": "TS2302004\\Views\\Company\\Index.cshtml",
+              "ToolTip": "D:\\Download D\\Exercise\\Asp\\TS2302004\\TS2302004\\Views\\Company\\Index.cshtml",
+              "RelativeToolTip": "TS2302004\\Views\\Company\\Index.cshtml",
+              "ViewState": "AQIAADQAAAAAAAAAAADwv0EAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T10:49:24.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "D:\\Download D\\Exercise\\Asp\\TS2302004\\TS2302004\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "TS2302004\\Controllers\\CompanyController.cs",
+              "ToolTip": "D:\\Download D\\Exercise\\Asp\\TS2302004\\TS2302004\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "TS2302004\\Controllers\\CompanyController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwDAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:45:54.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Download D\\Exercise\\Asp\\TS2302004\\TS2302004\\Program.cs",
+              "RelativeDocumentMoniker": "TS2302004\\Program.cs",
+              "ToolTip": "D:\\Download D\\Exercise\\Asp\\TS2302004\\TS2302004\\Program.cs",
+              "RelativeToolTip": "TS2302004\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:35:25.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Download D\\Exercise\\Asp\\TS2302004\\TS2302004\\appsettings.json",
+              "RelativeDocumentMoniker": "TS2302004\\appsettings.json",
+              "ToolTip": "D:\\Download D\\Exercise\\Asp\\TS2302004\\TS2302004\\appsettings.json",
+              "RelativeToolTip": "TS2302004\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-25T10:34:53.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
